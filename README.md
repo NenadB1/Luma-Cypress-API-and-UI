@@ -1,15 +1,15 @@
 # Luma-Cypress-API-and-UI
 
-**Project Name**
+## **Project Name**
 
 Luma Demo Testing Project
 
 
-**Introduction**
+## **Introduction**
 
 Project is focused on UI testing demo site Luma(https://magento.softwaretestingboard.com/), using the Cypress framework in JavaScript. Also, there are API tests for Pet store website written also in Cypress.
 
-**Prerequisites**
+## **Prerequisites**
 
 Make sure you have the following software installed on your machine:
 
@@ -21,7 +21,7 @@ Cypress: https://www.cypress.io/
 
 Postman: https://learning.postman.com/
 
-**Setup**
+## **Setup**
 
 1) Clone the Repository
  ```bash
